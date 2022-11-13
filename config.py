@@ -1,0 +1,3 @@
+html2pdf ={"html2pdfkey":"9cpHqTVs42vpdRDofjDiLOgI62nLXIlZaDVdyeTa8G6PV7Gh0aXfv0wWrrISrvl2"}
+
+tempgit = {"githubpat":"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"}
